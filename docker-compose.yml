@@ -6,5 +6,4 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "8080:8080" # Replace with desired port mapping
-    # other configurations if needed
+      - "3000:3000"
